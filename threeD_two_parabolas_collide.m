@@ -1,3 +1,8 @@
+%Kaleb Nails
+%Created: 9/~/22
+% Modified 10/25/22
+
+
 clc,clear, clearvars
 
 %make a parabola based on two points, points above z before hitting ground.
